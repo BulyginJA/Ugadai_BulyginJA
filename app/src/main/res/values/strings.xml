@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ugadai_BulyginJA</string>
+    <!-- оповестят пользователя об его успехах в игре -->
+    <string name="behind">Недолёт!</string>
+    <string name="ahead">Перелёт!</string>
+    <string name="hit">В точку!</string>
+    <!-- установит название кнопки, которое объяснит её функции -->
+    <string name="play_more">Сыграть ещё?</string>
+    <string name="try_to_guess">Попробуйте угадать число (1 &#8211; 100)</string>
+    <string name="try_to_guess_range">Число должно быть в диапазоне от 1 до 100!</string>
+    <!-- пригласит пользователя к вводу числа -->
+    <string name="input_number">Введите число</string>
+    <string name="input_value">Проверить совпадение</string>
+    <!-- сообщение о неверном вводе -->
+    <string name="error">Неверный ввод...</string>
+</resources>
